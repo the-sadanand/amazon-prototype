@@ -1,0 +1,16 @@
+*{
+    color:aqua;
+}
+
+button{
+    color:red;
+    background-color: black;
+}
+
+.myClass{
+    color:blue;
+}
+
+#headingOne{
+    color:green;
+}

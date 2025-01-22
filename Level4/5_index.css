@@ -1,0 +1,27 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: black;
+    text-align: center;
+    animation:  positionanimate 2s ease-in 0s infinite alternate;
+}
+
+
+@keyframes coloranimate{
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: blue;
+    }
+}
+
+@keyframes positionanimate{
+    from{
+        transform: translate(0px, 0px);
+    }
+    to{
+        transform: translate(200px, 100px);
+    }
+}
