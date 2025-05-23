@@ -16,10 +16,6 @@ This project replicates the basic structure and look of the Amazon homepage usin
 - 📱 Fully responsive on mobile devices
 - 🎨 CSS-only design (No JS used)
 
----
 
-## 📸 Preview
-
-![Screenshot](https://user-images.githubusercontent.com/74038190/210833687-c8a7e2cb-2dbb-4d4f-8bbf-6a472dc3e869.png)
 
 
